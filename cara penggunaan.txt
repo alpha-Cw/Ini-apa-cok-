@@ -1,0 +1,4 @@
+kalau belum, gunakan "pip install yt-dlp"
+kalau belum ada python, install dulu.
+
+kalau python dan yt-dlp sudah terinstal. tinggal ketik python Yutup.py
