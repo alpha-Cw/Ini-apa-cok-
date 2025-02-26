@@ -1,0 +1,1 @@
+ini adalah tempat untuk menyimpan hasil videonya. jangan hapus directory ini!
