@@ -21,5 +21,8 @@ else:
   subprocess.run(["yt-dlp", "-x", "--audio-format", "mp3", "-o", "hasilDownload/%(title)s.%(ext)s", data])
   print("")
   print("PERINTAH SELESAI")
+  print("")
+  time.sleep(10)
+  subprocess.run(["clear"])
 
 # 😂🤣😭
