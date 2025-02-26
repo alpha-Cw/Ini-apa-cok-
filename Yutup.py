@@ -18,7 +18,6 @@ print("")
 if not data:
   print("tolong masukan link/urlnya!")
 else:
-  print("")
   subprocess.run(["yt-dlp", "-x", "--audio-format", "mp3", "-o", "hasilDownload/%(title)s.%(ext)s", data])
   print("")
   print("PERINTAH SELESAI")
